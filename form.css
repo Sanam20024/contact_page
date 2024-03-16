@@ -199,6 +199,18 @@ textarea {
 
 
 /* Media queries for mobile devices */
-@media only screen and (max-width: 480px) {
+@media only screen and (min-width:300px) and (max-width: 480px) {
     /* Add specific styles for mobile devices */
+     /* Add specific styles for mobile devices */
+    .heading {
+        font-size: 30px;
+        padding-left: 0;
+        padding-top: 30px;
+    }
+    .form-containers h1{
+        font-size: 30px;
+    }
+    .image-container{
+        margin-top: 10px;
+    }
 }
