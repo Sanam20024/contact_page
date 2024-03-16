@@ -202,7 +202,7 @@ textarea {
 @media only screen and (min-width:300px) and (max-width: 480px) {
     /* Add specific styles for mobile devices */
     .heading {
-        font-size: 30px;
+        font-size: 35px;
         padding-left: 0;
         padding-top: 30px;
     }
